@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Satish-Ss-MacBook-Pro.local" name="com.adept.findjob.mytest.AppTest" tests="1" failures="0" timestamp="8 Sep 2014 05:53:46 GMT" time="65.408" errors="0">
+  <testcase name="Saucetest" time="65.012" classname="com.adept.findjob.mytest.AppTest"/>
+</testsuite>
